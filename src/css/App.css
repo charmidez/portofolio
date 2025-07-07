@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+    themes: all;
+  }
+
+
+
+@theme {
+  --color-regal-blue: rgba(255, 0, 0, 0.1); 
+  --color-transparent-violet : rgba(138, 43, 226, 0.1);
+  --color-transparent-bottom : rgba(112, 8, 231, 0.4);
+}
