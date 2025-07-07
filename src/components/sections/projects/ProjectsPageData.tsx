@@ -13,6 +13,13 @@ type Project = {
 
 export const projectsMineWeb = {
   client: [
+        {
+      societe: "ONG DFA",
+      desc: <Esagnde />,
+      logoSrc: "/assets/logo/logoongdfa.png",
+      imgSrc: "/assets/images/ongdfa.webp",
+      lien: "https://ong-dfa.com/",
+    },
     {
       societe: "ESAG NDE",
       desc: <Esagnde />,
