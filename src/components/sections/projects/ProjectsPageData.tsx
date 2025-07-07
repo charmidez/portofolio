@@ -76,6 +76,13 @@ export const projectsMineWeb = {
       imgSrc: "/assets/images/7oneccauemoa.webp",
       lien: "https://7oneccauemoa2025.com/",
     },
+        {
+      societe: "LE GÉNIE AUTO-ÉCOLE",
+      desc: <Esagnde />,
+      logoSrc: "/assets/logo/logolegenie.png",
+      imgSrc: "/assets/images/legenieautoecole.png",
+      lien: "https://www.legenieautoecole.com/",
+    },
   ],
 };
 
